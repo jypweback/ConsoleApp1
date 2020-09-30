@@ -57,3 +57,6 @@ build/
 .fake/
 artifacts/
 *.bat
+
+# App Config
+./ConsoleApp1/*.config
