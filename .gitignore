@@ -59,4 +59,4 @@ artifacts/
 *.bat
 
 # App Config
-./ConsoleApp1/*.config
+ConsoleApp1/*.config
