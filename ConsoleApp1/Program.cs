@@ -10,23 +10,19 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("mac");
 
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
 
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
-            Console.WriteLine("mac test code upupupup");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
 
-            Console.WriteLine("mac test code upupupup");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
+            Console.WriteLine("mac");
         }
     }
 }
