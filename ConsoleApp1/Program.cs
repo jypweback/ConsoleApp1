@@ -23,6 +23,27 @@ namespace ConsoleApp1
             Console.WriteLine("mac");
             Console.WriteLine("mac");
             Console.WriteLine("mac");
+            Console.WriteLine("mac test code upupupup");
+
+
+            Console.WriteLine("window");
+
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+            Console.WriteLine("window");
+        }
+
+        public void GetWindowMethod()
+        {
+            Console.WriteLine("Window Method");
         }
     }
 }
